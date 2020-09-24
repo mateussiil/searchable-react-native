@@ -1,0 +1,12 @@
+{
+  "name": "search-list",
+  "displayName": "search-list",
+  "expo": {
+    "name": "search-list",
+    "slug": "search-list",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
